@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: addon\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl_NL\n"
+"PO-Revision-Date: 2021-11-14 21:00+0200\n"
+
+msgctxt "Addons::name::soneritics_aiden"
+msgid "Soneritics Aiden"
+msgstr "Soneritics Aiden"
+
+msgctxt "Addons::description::soneritics_aiden"
+msgid "Aiden keuzehulp addon"
+msgstr "Aiden keuzehulp addon"
+
+msgctxt "Languages::addons.soneritics_aiden.start"
+msgid "Start"
+msgstr "Start keuzehulp"
